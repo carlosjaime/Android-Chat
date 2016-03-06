@@ -8,3 +8,5 @@ La parte de servidor esta realizada en phyton.
 La base de datos que usamos en mysql.
 Usamos php para el tratamiento de imagenes.
 Y el resto de la aplicación esta hecho en java (Android).
+
+Video donde se ve la aplicacion funcionando -> https://www.youtube.com/watch?v=FtRhPkDJHvc&feature=youtu.be
